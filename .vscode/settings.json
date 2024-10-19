@@ -1,0 +1,19 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "css.lint.unknownAtRules": "ignore",
+  "eslint.options": {
+    "overrideConfigFile": ".eslintrc.json"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always",
+    "source.addMissingImports.ts": "always",
+    "source.organizeImports": "always",
+    "source.sortImports": "always",
+    "source.fixAll.ts": "always",
+    "source.removeUnused.ts": "always",
+    "source.removeUnusedImports": "always"
+  }
+}
