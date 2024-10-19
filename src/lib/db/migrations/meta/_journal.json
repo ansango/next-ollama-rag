@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1729352255951,
+      "tag": "0000_true_titania",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1729353939376,
+      "tag": "0001_flawless_sentry",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1729365142160,
+      "tag": "0002_familiar_khan",
+      "breakpoints": true
+    }
+  ]
+}
